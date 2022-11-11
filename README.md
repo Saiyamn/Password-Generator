@@ -1,9 +1,10 @@
+### GETTING STARTED
 
+1. Clone the repository using the link https://github.com/Saiyamn/Password-Generator.git
 
-### `npm start`
+2. Once cloned, enter the parent directory using cd command and run 'npm install' command. (Please make sure node js is installed on your machine for running npm commands)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3. After dependencies are installed then run 'npm start' command.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. Open http://localhost:3000 to view it in your browser.
+
